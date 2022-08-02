@@ -1,4 +1,4 @@
-module github.com/haivision/srtgo
+module github.com/robotogre/srtgo
 
 go 1.12
 
